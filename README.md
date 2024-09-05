@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Yosys.js has been deprecated and is no longer being updated.
+> We suggest using an alternative solution such as [YoWASP](https://yowasp.org/) instead.
+
 # yosys.js
 
 WebAssembly version of [Yosys](https://github.com/YosysHQ/yosys). Automatic updates through a GitHub Actions workflow.
